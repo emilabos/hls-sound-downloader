@@ -1,0 +1,2 @@
+create a class for fetching network cf apis for a specific song from url
+create function to get song data including image, artist, duration, etc
